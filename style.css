@@ -1,0 +1,9 @@
+#task-list li.completed {
+    text-decoration: line-through;
+    color: grey;
+}
+
+.delete-btn {
+    margin-left: 20px;
+    color: firebrick;
+}
